@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 **Last updated**  
 May 4 2023
 
