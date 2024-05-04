@@ -336,9 +336,9 @@ The company is responsible for overall handling of personal information,and has 
 
 <ul>
   <li>Privacy Officer</li>
-      Name: Junsu Mun
-      Position: CEO
-      Email: junsu.mun@outlook.com
+      Name: Junsu Mun<br>
+      Position: CEO<br>
+      Email: junsu.mun@outlook.com<br>
 </ul>
 
 ## 11. Amendment to the privacy policy
