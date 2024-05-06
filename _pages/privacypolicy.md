@@ -17,11 +17,13 @@ BonneChance ("BONNECHANCE", "company", "organization", "we", "our", and "us") is
 <be>
 
 ## Your acceptance of this privacy policy
-
+<be>
+  
 This Privacy Policy applies to all users (first-time visitors, registered users, and all other users) of our Services. By using the Services, you consent to us obtaining, storing, using, and disclosing your information as outlined in this Privacy Policy. The terms included in this Privacy Policy supplant all prior remarks and records regarding our privacy practices concerning the Services. If you do not agree to all prerequisites of this Privacy Policy, you may not access nor use the Services.
 
 ## 1. Collection of personal information
-
+<be>
+  
 BonneChance collects the minimum personal information to provide the Services.The following minimum personal information is collected when a user signs up for the Service or while the user uses the Services, through the home page, individual applications and programs, and etc.
 
 <ul>
